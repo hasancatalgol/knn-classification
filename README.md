@@ -8,19 +8,19 @@ This project implements a K-Nearest Neighbors (KNN) classification model using R
 ## 📁 Project Structure
 
 ```
-KNN/
-├── app.r              # Shiny or main R script
-├── knn.r              # Core KNN implementation
-├── knn-model.r        # Model training/evaluation
-├── settings.json      # Project-specific configuration
-├── renv/              # renv-managed environment
-│   ├── library/       # Local package library (gitignored)
-│   ├── staging/       # Temporary renv files
-│   └── .gitignore     # Ignores renv internals
-├── renv.lock          # Captures package versions
-├── activate.R         # Auto-activation script
-├── .Rprofile          # Bootstraps renv on project load
-├── .gitignore         # Global ignore rules
+📦 KNN
+├── 📜 app.r             # Shiny or main R script
+├── 📜 knn.r             # Core KNN implementation
+├── 📜 knn-model.r       # Model training and evaluation
+├── ⚙️  settings.json     # Project-specific configuration
+├── 📁 renv              # renv-managed environment
+│   ├── 📁 library       # Local package library (gitignored)
+│   ├── 📁 staging       # Temporary renv files
+│   └── 📜 .gitignore    # Ignores renv internals
+├── 📜 renv.lock         # Captures package versions
+├── 📜 activate.R        # Auto-activation script
+├── 📜 .Rprofile         # Bootstraps renv on project load
+└── 📜 .gitignore        # Global ignore rules
 ```
 
 ---
