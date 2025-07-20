@@ -28,8 +28,8 @@ This project implements a K-Nearest Neighbors (KNN) classification model using R
 
 1. **Clone the repo**:
     ```bash
-    git clone https://github.com/your-user/knn-r-project.git
-    cd knn-r-project
+    git clone https://github.com/hasancatalgol/knn-classification.git
+    cd knn-classification
     ```
 
 2. **Open in RStudio**  
