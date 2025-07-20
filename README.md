@@ -11,7 +11,6 @@ This project implements a K-Nearest Neighbors (KNN) classification model using R
 📦 KNN
 ├── 📜 app.r             # Shiny or main R script
 ├── 📜 knn.r             # Core KNN implementation
-├── 📜 knn-model.r       # Model training and evaluation
 ├── ⚙️  settings.json     # Project-specific configuration
 ├── 📁 renv              # renv-managed environment
 │   ├── 📁 library       # Local package library (gitignored)
